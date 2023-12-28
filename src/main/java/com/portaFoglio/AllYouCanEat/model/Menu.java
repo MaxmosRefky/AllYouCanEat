@@ -18,5 +18,5 @@ public class Menu {
     @Column(name = "menu_id")
     Integer menuId;
 
-
+    //ff
 }
